@@ -1,2 +1,6 @@
-# ai-project-experiment
-experiment of ai in scikit-learn and tensorflow
+# AI-Project-Experiment
+
+## 인공지능 개발 연구를 위한 다양한 실험소
+- 인공지능에 대해 공부하기 위해 여러가지 실험을 하기 위해 만든 레포지토리
+- scikit-learn, tensorflow등을 통해 각 인공지능의 기능들을 익히기 위함
+- 추후 인공지능 프로젝트를 직접 개발하기 위한 장소
